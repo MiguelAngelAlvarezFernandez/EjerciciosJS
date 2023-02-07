@@ -18,6 +18,11 @@
  */
 
 // Write your code here.
+let myNumber = 5
+let myString = "string"
+let turnedOn = true
+let noValue /*Al no asignar valor JS le asigna automáticamente el valor undefined mientras no se asigne uno concreto*/
+let unknownValue = null
 
 /**
  * Don't to change next lines.

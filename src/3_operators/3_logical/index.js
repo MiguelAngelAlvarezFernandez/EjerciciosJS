@@ -30,13 +30,13 @@
  * - Set the variable values to get to go to the beach
  */
 
-let itsSunny = false
-let imOnHolidays = false
-let iLikeBeach = false
+let itsSunny = true
+let imOnHolidays = true
+let iLikeBeach = true
 let iSurf = false
 let thereAreWaves = false
-let beachIsCloseEnough = false
-let thereAreNoSharks = false
+let beachIsCloseEnough = true
+let thereAreNoSharks = true
 let iGoToTheBeach = ( 
         (
             itsSunny &&

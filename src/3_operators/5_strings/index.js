@@ -9,8 +9,8 @@
  * 
  */
 
-let userName
-let responseText = "Thank you for your message, " + userName + ". You have an appointment tomorrow at 12:00"
+let userName = " Rigoberto"
+let responseText = "Thank you for your message," + userName + ". You have an appointment tomorrow at 12:00"
 
 /**
  * Don't to change next lines.

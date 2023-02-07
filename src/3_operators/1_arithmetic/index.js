@@ -7,7 +7,7 @@
  * 5 % 2 = 1 <- modulus operator: 5 / 2 = 2 and 1 remains
  * 
  * Exercise:
- * - Assign to VATRatio the value os VATPergentage divided by 100.
+ * - Assign to VATRatio the value os VATPercentage divided by 100.
  * - Assign to VATValue the value of productPrize multiplied by VATRatio.
  * - Declare a variable named "total" and assign to it the
  *   value of productPrize plus VATValue.
@@ -19,6 +19,9 @@ let VATRatio
 let VATValue
 
 // Write your code here.
+VATRatio = VATPercentage / 100
+VATValue = productPrize * VATRatio
+let total = productPrize + VATValue
 
 /**
  * Don't to change next lines.

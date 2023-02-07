@@ -17,10 +17,10 @@
  * - May be multiple comparison operators provides a true.
  */
 
-let greater = 10 ❓ 1
-let equal = 33 ❓ 33
-let minor = 5 ❓ 99
-let notEqual = "1" ❓ 1
+let greater = 10 > 1
+let equal = 33 === 33
+let minor = 5 <= 99
+let notEqual = "1" !== 1
 
 /**
  * Don't to change next lines.

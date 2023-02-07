@@ -11,6 +11,7 @@
  */
 
 // Write your code here.
+let primes = [2, 3, 5, 7, 13]
 
 /**
  * Don't to change next lines.

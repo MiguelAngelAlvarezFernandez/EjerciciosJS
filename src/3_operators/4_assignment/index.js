@@ -15,7 +15,7 @@
  * - Set in myResultGuess the result of the operations
  */
 
-let myResultGuess
+let myResultGuess = 1
 let changingValue = 30
 changingValue += 20
 changingValue -= 10
