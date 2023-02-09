@@ -29,6 +29,8 @@ function aEnesimaPalabraDaFrase(frase, numero) {
 
 // Write your code here
 
+palabra = aEnesimaPalabraDaFrase(fraseEnCuestion, 4)
+
 /**
  * Don't to change next lines.
  */
