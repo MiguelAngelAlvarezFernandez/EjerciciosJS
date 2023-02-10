@@ -10,8 +10,10 @@
 function saludarAs(horaActual) {
     if ( horaActual > 7 && horaActual <= 19 ) {
         // Your code here
+        return"Bos días"
     } else {
         // Your code here
+        return"Boas noites"
     }
 }
 
